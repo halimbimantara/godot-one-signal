@@ -1,5 +1,6 @@
 # godot-one-signal
 apply onesignal notification in godot | Android
+you can receive notifications on your android mobile godot application
 _________
 Signin and create new Apps  on <b>Onesignal</b>
 ----------
